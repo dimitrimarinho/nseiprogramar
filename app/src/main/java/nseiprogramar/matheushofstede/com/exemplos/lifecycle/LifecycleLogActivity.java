@@ -40,7 +40,7 @@ public class LifecycleLogActivity extends AppCompatActivity {
             public void onClick(View view) {
                 Intent i = new Intent(LifecycleLogActivity.this, NextActivity.class);
                 startActivity(i);
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
+                Snackbar.make(view, "Activity abriu", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
             }
         });
