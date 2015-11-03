@@ -1,5 +1,13 @@
-# nseiprogramar: códigos fontes
-Aqui se localiza todo os códigos fontes dos exemplos que fiz no blog ou no canal do Youtube. 
-O que está localizado aqui serve justamente para você usar nos seus projetos, mas se estiver te ajudando, peço para compartilhar meu trabalho.
-O projeto é um app em si, que ao compilar, vai te mostrar a parte visual dos exemplos. Cada aula está separada por
-[packages distintos.](https://github.com/hofstede-matheus/nseiprogramar/tree/master/app/src/main)
+# nseiprogramar: exemplos
+Bem vindo ao repositório do Github do blog e canal [nseiprogramar](https://nseiprogramar.wordpress.com/). Aqui está localizado um projeto com o código de fonte de todos os exemplos dados no [blog](https://nseiprogramar.wordpress.com/) e no [canal](https://nseiprogramar.wordpress.com/), separados por [packages distintos.](https://github.com/hofstede-matheus/nseiprogramar/tree/master/app/src/main) de cada aula.
+[![nseiprogramar](http://i.imgur.com/rdOjRAA.png)](https://github.com/hofstede-matheus/nseiprogramar/tree/master/app/src/main/java/nseiprogramar/matheushofstede/com/exemplos)
+Em cima um exemplo de como vai ser organizado o app.
+Se te ajudou ou gostou do conteúdo, não se esqueça de compartilhar, que com certeza vai ajudar mais gente e dismistificar o mundo da programação, que é taxado como algo beirando o impossível de compreender.
+
+## Android noções básicas
+**Essa categoria é passagem obrigatória para quem quer começar a programar pra Android** Para iniciantes.
+* [Ciclo de vida de uma Activity (Activity Lifecycle)](https://nseiprogramar.wordpress.com/2015/11/02/ciclo-de-vida-de-uma-activity-activity-lifecycle/)
+ * [Exemplo](https://github.com/hofstede-matheus/nseiprogramar/tree/master/app/src/main/java/nseiprogramar/matheushofstede/com/exemplos/lifecycle)
+ * [Video-aula](chegando...)
+
+
