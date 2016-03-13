@@ -9,6 +9,7 @@ Se te ajudou ou gostou do conteúdo, não se esqueça de compartilhar, que com c
 ## C: Desafios
 **Como estou aprendendo C na faculdade, vou colocar aqui uns exercícios que o professor passou e até alguns que imaginei, com o código da resolução**
 * [IdadeCerta (Calcular a idade correta de uma pessoa ao informar a data de nascimento )](https://nseiprogramar.wordpress.com/2015/11/02/ciclo-de-vida-de-uma-activity-activity-lifecycle/)
+* [IdadeCerta (Calcular a idade correta de uma pessoa ao informar a data de nascimento )](https://nseiprogramar.wordpress.com/2015/11/02/ciclo-de-vida-de-uma-activity-activity-lifecycle/)
 
 ## Android: noções básicas
 **Essa categoria é passagem obrigatória para quem quer começar a programar pra Android. Menos código e mais teoria** 
