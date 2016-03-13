@@ -1,5 +1,5 @@
 # nseiprogramar: Exemplos
-Bem vindo ao repositório do Github do blog e canal [nseiprogramar](https://nseiprogramar.wordpress.com/). Aqui está localizado um projeto com o código de fonte de todos os exemplos dados no [blog](https://nseiprogramar.wordpress.com/) e no [canal](https://nseiprogramar.wordpress.com/), separados por [packages distintos.](https://github.com/hofstede-matheus/nseiprogramar/tree/master/app/src/main) de cada aula.
+**Bem vindo ao repositório do Github do blog e canal [nseiprogramar](https://nseiprogramar.wordpress.com/). Aqui está localizado um projeto com o código de fonte de todos os exemplos dados no [blog](https://nseiprogramar.wordpress.com/) e no [canal](https://nseiprogramar.wordpress.com/), separados por [packages distintos.](https://github.com/hofstede-matheus/nseiprogramar/tree/master/app/src/main) de cada aula. **
 
 [![nseiprogramar](http://i.imgur.com/rdOjRAA.png?1)](https://github.com/hofstede-matheus/nseiprogramar/tree/master/app/src/main/java/nseiprogramar/matheushofstede/com/exemplos)
 
